@@ -1,0 +1,4 @@
+Prototype mismatch: sub main::SIGVTALRM () vs none at /lusr/opt/pintos//pintos line 934.
+Constant subroutine SIGVTALRM redefined at /lusr/opt/pintos//pintos line 926.
+Could not open option rom 'sgabios.bin': No such file or directory
+qemu: terminating on signal 1 from pid 29882
